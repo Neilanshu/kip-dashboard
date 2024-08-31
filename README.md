@@ -1,5 +1,4 @@
 # KPI-Dashboard
-
 ## Overview
 
 This project involves the automation of a Key Performance Indicator (KPI) dashboard using a given sales dataset. The dashboard includes calculations and visualizations of key metrics to analyze sales performance.
